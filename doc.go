@@ -3,18 +3,13 @@
  * file 'LICENSE.md', which is part of this source code package.
  */
 
-// UniDoc is a comprehensive PDF library for Go (golang). The library has advanced capabilities for generating,
-// processing and modifying PDFs. UniDoc is written and supported by the owners of the
-// FoxyUtils.com website, where the library is used to power many of the PDF services offered.
+// OssDoc is a comprehensive PDF library for Go (golang). The library has advanced capabilities for generating,
+// processing and modifying PDFs. OssDoc is a fork of UniDoc (https://github.com/unidoc/unidoc).
 //
 // Getting More Information
 //
-// Check out the Getting Started and Example sections, which showcase how to install UniDoc and provide numerous
-// examples of using UniDoc to generate, process or modify PDF files.
-// https://unidoc.io/examples/getting_started/
-//
-// The godoc for unidoc provides a detailed breakdown of the API and documentation for packages, types and methods.
-// https://godoc.org/github.com/unidoc/unidoc
+// The godoc for ossdoc provides a detailed breakdown of the API and documentation for packages, types and methods.
+// https://godoc.org/github.com/gtrafimenkov/ossdoc
 //
 // Overview of Major Packages
 //

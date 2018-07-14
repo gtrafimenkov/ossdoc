@@ -1,5 +1,10 @@
-Acknowledgements
-----------------
+Acknowledgements of OssDoc
+--------------------------
+
+OssDoc is a fork of [UniDoc](https://github.com/unidoc/unidoc).
+
+Acknowledgements of UniDoc
+--------------------------
 
 The UniDoc library uses resources from the following open source projects:
 
